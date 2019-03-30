@@ -1,0 +1,350 @@
+[
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app",
+        {
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553855709951,
+            "changeTime": 1553855709951,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553855709952,
+            "changeTime": 1553855709952,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553948427941,
+            "changeTime": 1553948427941,
+            "contentHash": "1ac95324ce0f74f2726d3242841d0c1a75b55bdc"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553855709952,
+            "changeTime": 1553855709952,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553855827307,
+            "changeTime": 1553855827307,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo",
+        {
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553945108743,
+            "changeTime": 1553945108743,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c\\Movie__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c\\Movie__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2053,
+            "modifiedTime": 1553948427612,
+            "changeTime": 1553948427612,
+            "contentHash": "fdae71dd64c38a854e797c4cc162b6b7ce7316ec"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c\\fields\\Year__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c\\fields\\Year__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 381,
+            "modifiedTime": 1553948427624,
+            "changeTime": 1553948427624,
+            "contentHash": "5ce3a0c136b97d67b7fc60478d43fadd3fa78c58"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1553948427826,
+            "changeTime": 1553948427826,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\layouts\\Movie__c-Movie Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\layouts\\Movie__c-Movie Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2081,
+            "modifiedTime": 1553948427854,
+            "changeTime": 1553948427854,
+            "contentHash": "d3b1047db62d59fd2cf48029d1f50da14af7cf89"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\flexipages\\Movie_Database_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\flexipages\\Movie_Database_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 509,
+            "modifiedTime": 1553948427864,
+            "changeTime": 1553948427864,
+            "contentHash": "2e56e3bc995293e19e0246ab1d011f7b33c0f446"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\tabs\\Movie__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\tabs\\Movie__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1553948427872,
+            "changeTime": 1553948427872,
+            "contentHash": "063f8013efa57d1484f8fb4a53d7d94bfbb4c195"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\applications\\Movie_Database.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\applications\\Movie_Database.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 641,
+            "modifiedTime": 1553948427910,
+            "changeTime": 1553948427910,
+            "contentHash": "ad848e97596384d14a427eac1cfa7ea42b92c487"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19460,
+            "modifiedTime": 1553948427976,
+            "changeTime": 1553948427976,
+            "contentHash": "b1557116d12dda4bd106811a64513930fa7d34fd"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4986,
+            "modifiedTime": 1553948427994,
+            "changeTime": 1553948427994,
+            "contentHash": "e8432bcc0cf5a5d112c8e1d61ae1a61e3b994f12"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5324,
+            "modifiedTime": 1553948428011,
+            "changeTime": 1553948428011,
+            "contentHash": "62d21cdda3008ecdda5dc2f4899bc8bec965f1c5"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4986,
+            "modifiedTime": 1553948428028,
+            "changeTime": 1553948428028,
+            "contentHash": "e8432bcc0cf5a5d112c8e1d61ae1a61e3b994f12"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553948427625,
+            "changeTime": 1553948427625,
+            "contentHash": "81dc2c458b4e9522cc5aaa2f9661add770fdbbc4"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553948427595,
+            "changeTime": 1553948427595,
+            "contentHash": "b99618601f1259fa7b913c3f40863fee65825c60"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553948427614,
+            "changeTime": 1553948427614,
+            "contentHash": "ce334118c295105388937b20ed260e1f9b13136b"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\objects\\Movie__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553948427626,
+            "changeTime": 1553948427626,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553948427851,
+            "changeTime": 1553948427851,
+            "contentHash": "3148d3a2842d7f4bb23b0f8f30c0177391d69f73"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553948427861,
+            "changeTime": 1553948427861,
+            "contentHash": "6a8dc45d4b515508e29d2f33235e0c0db9c06630"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553948427869,
+            "changeTime": 1553948427869,
+            "contentHash": "c2a5932c84d091142b4847073b253b1e3b12017d"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553948427906,
+            "changeTime": 1553948427906,
+            "contentHash": "e63967884ebc9f88a0c687334083555000cce56d"
+        }
+    ],
+    [
+        "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce Projects WS\\SfdxDemo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553948428025,
+            "changeTime": 1553948428025,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
